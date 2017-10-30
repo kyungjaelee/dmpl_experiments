@@ -1,0 +1,8 @@
+addpath('IRL-Toolkit/Highway/')
+addpath('IRL-Toolkit/Gridworld/')
+addpath('IRL-Toolkit/Objectworld/')
+addpath('IRL-Toolkit/General/')
+addpath('IRL-Toolkit/LinearMDP/')
+addpath('IRL-Toolkit/StandardMDP/')
+addpath('IRL-Toolkit/MaxEnt/')
+addpath('IRL-Toolkit/Evaluation/')
